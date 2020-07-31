@@ -1,0 +1,11 @@
+{
+    "DBLocal": {
+      "host" : "localhost",
+      "DB": "UserData",
+      "DBuser": "postgres",
+      "DBPass": "postgres",
+      "DBPort": "5432"
+
+  }
+}
+  
