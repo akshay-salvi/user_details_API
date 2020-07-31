@@ -1,4 +1,4 @@
-# Helper Functions, used as common resource for DB connections Entry Exit Camera Module
+# Helper Functions, used as common resource for DB connections.
 
 import os
 from sqlalchemy import create_engine
